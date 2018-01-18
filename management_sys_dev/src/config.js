@@ -7,7 +7,7 @@ export const WEBDDOMAIN_ROOT = (function() {
             url = '/';
         case "production_test":
         case "development":
-            url = 'http://weixttest8gedai.yind123.com/';
+            url = 'http://34idea.com/';
             break;
         default:
             break;
@@ -22,7 +22,7 @@ export const WEBAPI_ROOT = (function() {
             url = '/adminapi';
         case "production_test":
         case "development":
-            url = 'http://weixttest8gedai.yind123.com/adminapi';
+            url = 'http://34idea.com/adminapi';
             break;
         default:
             break;

@@ -1,6 +1,6 @@
 <template>
     <div>
-        欢迎进入个贷管理平台！
+        欢迎进入防伪管理平台！
     </div>
 </template>
 <script>
